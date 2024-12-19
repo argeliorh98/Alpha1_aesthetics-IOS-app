@@ -1,5 +1,5 @@
 # Alpha1_aesthetics-IOS-app
-# Alpha Aesthetics
+# Alpha 1 Aesthetics
 
 Alpha Aesthetics is a comprehensive fitness application designed to help users achieve their fitness goals. With Alpha 1 Aesthetics, users can interactively manage their fitness programs, track their progress, monitor their diet, and access various fitness-related tools all in one place.
 
